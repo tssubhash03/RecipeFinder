@@ -1,5 +1,13 @@
 let availableKeywords = [
-    'HTML', 'CSS', 'JavaScript', 'Framework', 'API', 'Bootstrap', 'React', 'Node', 'AJAX', 'Frontend', 'Backend', 'Database', 'JSON', 'jQuery', 'Vue', 'Sass', 'Webpack', 'SEO', 'Responsive', 'Hosting'
+   'butter', 'chicken', 'cream', 'spices',
+'beef', 'mushrooms', 'pastry', 'mustard',
+'lettuce', 'croutons', 'parmesan', 'anchovies',
+'rice noodles', 'shrimp', 'peanuts', 'bean sprouts',
+'fish', 'tortilla', 'cabbage', 'lime',
+'noodles', 'broth', 'pork', 'egg',
+'broccoli', 'bell peppers', 'carrots', 'soy sauce',
+'shrimp', 'garlic', 'butter', 'lemon',
+'chickpeas', 'cumin', 'tahini', 'pita bread'
 ]
 const resulBox=document.querySelector(".result-box");
 const inputBox=document.getElementById("search-input");
