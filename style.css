@@ -94,3 +94,26 @@ body {
     position: relative;
     z-index: 2;
 }
+.result-box{
+    width: 380px;
+    align-items: center;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 378px;
+}
+.result-box ul{
+    flex: 1;
+    border-top: 3px solid rgb(213, 212, 212);
+    padding: 15px 10px;
+}
+.result-box ul li{
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    list-style: none;
+    color: black;
+}
+.result-box ul li:hover{
+    background: #dddfe2 ;
+}
